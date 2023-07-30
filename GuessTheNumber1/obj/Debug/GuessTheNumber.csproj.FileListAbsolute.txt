@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\bin\Debug\GuessTheNumber1.exe.config
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\bin\Debug\GuessTheNumber1.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\bin\Debug\GuessTheNumber1.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\obj\Debug\GuessTheNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\obj\Debug\GuessTheNumber1.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\4\GuessTheNumber1\obj\Debug\GuessTheNumber1.pdb
