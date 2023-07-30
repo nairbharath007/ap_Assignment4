@@ -32,15 +32,26 @@ namespace GuessTheNumber
 
                 while (userGuess != randomNumber)
                 {
-                    Console.Write("Guess a number between " + min + " - " + max + " : ");
+                    Console.Write("\nGuess a number between " + min + " - " + max + " : ");
                     userGuess = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Guessed Number: " + userGuess);
 
-                    if (userGuess > randomNumber)
-                        Console.WriteLine(userGuess + " too high. ");
-                    else if (userGuess < randomNumber)
-                        Console.WriteLine(userGuess + " too low. ");
-                    numberOfAttempts++;
+                    if (userGuess >= min && userGuess <= max)
+                    {
+                        if (userGuess > randomNumber)
+                            Console.WriteLine(userGuess + " too high. ");
+                        else if (userGuess < randomNumber)
+                            Console.WriteLine(userGuess + " too low. ");
+                        numberOfAttempts++;
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nBeyond Range of the Guess.");
+                        numberOfAttempts++;
+                    }
+                        
+
+                     
                 }
                 Console.WriteLine("Number : " + randomNumber);
                 Console.WriteLine("\t\t\t*-*-*-*-*-*-*-*-*-*-*-*-*-*");
